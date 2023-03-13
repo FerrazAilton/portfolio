@@ -1,5 +1,5 @@
 import WorkIm from '../assets/projects/chess.png'
-import RealEst from '../assets/projects/chess.png'
+import RealEst from '../assets/projects/service.png'
 
 export const data=[
     {
@@ -11,9 +11,9 @@ export const data=[
     },
     {
         id:2,
-        name:"Web Servisces com Spring Boot e JPA/ Hibertnate",
+        name:"web services com Spring Boot e JPA / Hibernate",
         image:RealEst,
-        github:"",
+        github:"https://github.com/FerrazAilton/springboot3",
         live:"",
     },
      
