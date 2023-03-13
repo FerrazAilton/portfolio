@@ -11,10 +11,10 @@ export const data=[
     },
     {
         id:2,
-        name:"web services com Spring Boot e JPA / Hibernate",
+        name:"web services com Spring Boot e JPA / Hibernate / railway",
         image:RealEst,
         github:"https://github.com/FerrazAilton/springboot3",
-        live:"",
+        live:"https://springboot3-production.up.railway.app/users",
     },
      
 
