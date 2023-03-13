@@ -19,11 +19,17 @@ const Home = () => {
                     I am <span className='text-[#38B6FF] '>Ailton Ferraz</span>
                 </h2>
 
-
                 <h2 className='text-2xl sm:text-3xl font-bold text-[#b4bacd]'>
                    Full-stack developer
                 </h2>
+                <br></br>
 
+                <h2 className='text-1xl sm:text-1xl font-bold text-[#b4bacd]'>
+                    I'm a full stack developer, I'm passionate about innovation. 
+                    <br></br>
+                    I work since 2015 with different technologies, in person or remotely.
+                </h2>
+                 
 
                 <div className='py-10'>
                     <button className='text-white group border-2 px-6 py-4 my-2 flex items-center hover:bg-[#38B6FF] hover:border-[#00a6ff]'>
